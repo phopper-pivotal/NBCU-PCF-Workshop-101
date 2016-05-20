@@ -2,7 +2,7 @@
 
 == Schedule
 
-This one day hands-on classroom style session will provide developers (and operators) with hands on experience with Pivotal Cloud Foundry concepts, architecture and fundamentals of pushing code and building applications. The session includes presentations, demos and hands on labs
+This one day hands-on classroom style session will provide developers (and operators) with hands on experience with AT&T Cloud and Pivotal Cloud Foundry concepts, architecture, and fundamentals of pushing code and building applications. The session includes presentations, demos and hands on labs
 
 
 8:30 - 9:00 AM::
@@ -10,28 +10,28 @@ This one day hands-on classroom style session will provide developers (and opera
 9:00 - 9:30 AM::
  * Session 1: link:presentations/Session_1_Cloud_Native_Enterprise.pptx[_Cloud Native Framework_]
 9:30 - 10:00 AM::
- * Session: [_Microservices_]
+ * Session 2: [_Microservices_]
 10:00- 10:15 AM:: Break
 10:15 - 10:45 AM::
- * Session 2: [_Introduction to Cloud in AT&T_]
+ * Session 3: [_Introduction to Cloud in AT&T_]
 10:45 - 11:15 AM::
- * Session: [_Cloud Components in AT&T (DME2, LRM/GRM)_]
+ * Session 4: [_Cloud Components in AT&T (DME2, LRM/GRM)_]
 11:15 - 11:45 AM::
  * Session: [_How AJSC Helps with Integrating AT&T Cloud Components_]
 11:45 - 12:45 PM:: Working Lunch
- * Session 3: [_Spring Boot_]
+ * Session 5: [_Spring Boot_]
  * Lab: Spring Boot
 12:45 - 1:00 PM::
- * Session 4: link:presentations/Session_4_Spring_Actuator.pptx[_Spring Actuator_]
+ * Session 6: link:presentations/Session_6_Spring_Actuator.pptx[_Spring Actuator_]
 1:00 - 1:30 PM::
  * Session 5: PCF 101
 2:00 - 2:15 PM:: Break
 2:15 - 2:45 PM::
- * Session 6: link:presentations/Session_6_Containers.pptx[_Containers_]
+ * Session 7: link:presentations/Session_7_Containers.pptx[_Containers_]
 2:45 - 3:15 PM::
- * Session 7: [_PCF Buildpacks_]
+ * Session 8: [_PCF Buildpacks_]
 3:15 - 3:45 PM::
- * Session 8: [_Services_]
+ * Session 9: [_Services_]
 3:45 - 4:00 PM:: Break
 4:00 - 5:30 PM::
  * Labs 1 - From Zero to Pushing Your First Application
