@@ -35,25 +35,13 @@ This one day hands-on classroom style session will provide developers (and opera
 3:45 - 4:00 PM:: Break
 4:00 - 5:30 PM::
  * Labs - From Zero to Pushing Your First Application
-
-== Course Materials
-
-* Session 1: link:presentations/Session_1_Cloud_Native_Enterprise.pptx[Welcome to the Cloud Native Enterprise]
-* Session 2: link:presentations/Session_2_Architecture_And_Operations.pptx[Pivotal Cloud Foundry Architecture and Operations]
-* Session 3: link:presentations/Session_3
-* Session 4: link:presentations/Session_4
-* Session 5: link:presentations/Session_5
-* Session 6: link:presentations/Session_6
-* Session 7: link:presentations/Session_7
-* Session 8: link:presentations/Session_3_Services_Overview.pptx[Pivotal Cloud Foundry Services]
-
+ ** link:labs/lab1/lab.adoc[**Java** Application]
+ *** link:labs/lab1/lab-ruby.adoc[**Ruby** Application]
+ *** link:labs/lab1/lab-node.adoc[**NodeJS** Application]
+ ** link:labs/lab2/lab.adoc[Lab 2 - Binding to Cloud Foundry Services]
+ ** link:labs/lab3/lab.adoc[Lab 3 - Operating Your Application]
+ ** link:labs/lab4/lab.adoc[Lab 4 - Monitoring Your Application]
+ ** link:labs/lab5/continuous-delivery-lab.adoc[Advanced Lab - Jenkins Integration]
 
 * Developer Workshop
 ** Lab 1 - From Zero to Pushing Your First Application
-*** link:labs/lab1/lab.adoc[**Java** Application]
-*** link:labs/lab1/lab-ruby.adoc[**Ruby** Application]
-*** link:labs/lab1/lab-node.adoc[**NodeJS** Application]
-** link:labs/lab2/lab.adoc[Lab 2 - Binding to Cloud Foundry Services]
-** link:labs/lab3/lab.adoc[Lab 3 - Operating Your Application]
-** link:labs/lab4/lab.adoc[Lab 4 - Monitoring Your Application]
-** link:labs/lab5/continuous-delivery-lab.adoc[Advanced Lab - Jenkins Integration]
