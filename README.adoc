@@ -19,7 +19,7 @@ This one day hands-on classroom style session will provide developers (and opera
 11:15 - 11:45 AM::
  * Session 5: [_How AJSC Helps with Integrating AT&T Cloud Components_]
 11:45 - 12:45 PM:: Working Lunch
- * Session 6: [_Spring Boot_]
+ * Session 6: link:presentations/Session_6_Intro_Boot.pptx[_Spring Boot_]
  * Lab: Spring Boot
 12:45 - 1:00 PM::
  * Session 7: link:presentations/Session_7_Spring_Actuator.pptx[_Spring Actuator_]
