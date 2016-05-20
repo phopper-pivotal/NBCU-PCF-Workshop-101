@@ -5,8 +5,10 @@
 This one day hands-on classroom style session will provide developers (and operators) with hands on experience with AT&T Cloud and Pivotal Cloud Foundry concepts, architecture, and fundamentals of pushing code and building applications. The session includes presentations, demos and hands on labs
 
 
+8:00 - 8:30 AM:: 
+ * Registration and Breakfast
 8:30 - 9:00 AM::
- * Introductions & Agenda
+ * Intro: link:presentations/Introduction.pptx[_Welcome & Agenda_]
 9:00 - 9:30 AM::
  * Session 1: link:presentations/Session_1_Cloud_Native_Enterprise.pptx[_Cloud Native Framework_]
 9:30 - 10:00 AM::
