@@ -1,28 +1,51 @@
-= Pivotal Cloud Foundry 101 Workshop
+= AT&T and Pivotal Cloud Foundry 101 Workshop
 
 == Schedule
 
 This one day hands-on classroom style session will provide developers (and operators) with hands on experience with Pivotal Cloud Foundry concepts, architecture and fundamentals of pushing code and building applications. The session includes presentations, demos and hands on labs
 
-12:30 PM - 1:00 PM::
- * Session 1: _Welcome to the Cloud Native Enterprise_ 
-1:00 PM - 1:30 PM::
- * Demo: Pushing your first app, Apps Manager, Ops Manager_
-1:30 PM - 1:45 PM:: Break
-1:45 PM - 3:00 PM:: 
-* Session 2: _Pivotal Cloud Foundry Architecture and Containers_
-* Session 2: _Pivotal Cloud Foundry for Operators_
-3:00 PM - 3:15 PM:: Break
-3:15 PM - 3:30 PM:: 
-* Session 3: _Pivotal Cloud Foundry Services_
-3:30 PM - 5:30 PM:: 
-* Labs - Push, Scale, Bind, Monitor and Integrate your app
+
+8:30 - 9:00 AM::
+ * Introductions & Agenda
+9:00 - 9:30 AM::
+ * Session 1: link:presentations/Session_1_Cloud_Native_Enterprise.pptx[_Cloud Native Framework_]
+9:30 - 10:00 AM::
+ * Session: [_Microservices_]
+10:00- 10:15 AM:: Break
+10:15 - 10:45 AM::
+ * Session 2: [_Introduction to Cloud in AT&T_]
+10:45 - 11:15 AM::
+ * Session: [_Cloud Components in AT&T (DME2, LRM/GRM)_]
+11:15 - 11:45 AM::
+ * Session: [_How AJSC Helps with Integrating AT&T Cloud Components_]
+11:45 - 12:45 PM:: Working Lunch
+ * Session 3: [_Spring Boot_]
+ * Lab: Spring Boot
+12:45 - 1:00 PM::
+ * Session 4: [_Spring Actuator_]
+1:00 - 1:30 PM::
+ * Session 5: PCF 101
+2:00 - 2:15 PM:: Break
+2:15 - 2:45 PM::
+ * Session 6: link:presentations/Session_6_Containers.pptx[_Containers_]
+2:45 - 3:15 PM::
+ * Session 7: [_PCF Buildpacks_]
+3:15 - 3:45 PM::
+ * Session 8: [_Services_]
+3:45 - 4:00 PM:: Break
+4:00 - 5:30 PM::
+ * Labs - From Zero to Pushing Your First Application
 
 == Course Materials
 
 * Session 1: link:presentations/Session_1_Cloud_Native_Enterprise.pptx[Welcome to the Cloud Native Enterprise]
 * Session 2: link:presentations/Session_2_Architecture_And_Operations.pptx[Pivotal Cloud Foundry Architecture and Operations]
-* Session 3: link:presentations/Session_3_Services_Overview.pptx[Pivotal Cloud Foundry Services]
+* Session 3: link:presentations/Session_3
+* Session 4: link:presentations/Session_4
+* Session 5: link:presentations/Session_5
+* Session 6: link:presentations/Session_6
+* Session 7: link:presentations/Session_7
+* Session 8: link:presentations/Session_3_Services_Overview.pptx[Pivotal Cloud Foundry Services]
 
 
 * Developer Workshop
@@ -34,4 +57,3 @@ This one day hands-on classroom style session will provide developers (and opera
 ** link:labs/lab3/lab.adoc[Lab 3 - Operating Your Application]
 ** link:labs/lab4/lab.adoc[Lab 4 - Monitoring Your Application]
 ** link:labs/lab5/continuous-delivery-lab.adoc[Advanced Lab - Jenkins Integration]
-** link:cf-spring-trader/README.md[Advanced Lab - Spring Cloud Services, _**Java** Only_]
